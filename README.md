@@ -1,2 +1,4 @@
 # loginPage
-Pradeep project
+Change the url in login.js
+
+Run the login.html
